@@ -46,9 +46,11 @@
     </section>
     <footer>
         <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web Design For Everyone">
-        This page was created by Ammar &amp; Colleen van Lent.
+        This page was created by Ayesha &amp; Colleen van Lent.
         To learn more about web design, visit
         <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
     </footer>
 </body>
 </html>
+
+
